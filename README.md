@@ -15,6 +15,3 @@ cd dotfiles
 
 This will create symbolic links from the home directory to the files in this repository.
 Make sure to review the `install.sh` script before running it to ensure it meets your needs.
-
-## Contents
-- `install.sh`: Script to set up symbolic links for dotfiles.
