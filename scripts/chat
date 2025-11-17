@@ -9,6 +9,7 @@ PROMPT+=' Prefer command-line tools.'
 PROMPT+=' Optimize for the simplest possible response.'
 PROMPT+=' If there are multiple methods, show me the simplest one.'
 PROMPT+=' If possible, show me just a code snippet with no additional explanation.'
+PROMPT+=' Do not explain.'
 
 # Use a default LLM model but allow the user to override it.
 MODEL="${MODEL:-llama3.1:8b}"
